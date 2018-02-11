@@ -1,0 +1,51 @@
+button{
+	line-height: 50px;
+	width: 200px;
+	background-color: skyblue;
+	margin-left:4%;
+	position: absolute;
+	top:20%;
+	box-shadow: 8px 10px 8px 0px grey;
+	text-transform: uppercase;
+	font-weight: bolder;
+
+}
+
+#container1{
+	
+	opacity: 5%;
+	
+	width:80%;
+	margin-top: 30%;
+	margin-left:10%;
+	border-radius: 15px;
+	height:460px; 
+	border:3px dashed black;
+
+}
+
+#container1 img{
+	float: left;
+	margin: 10px;
+	height: 180px;
+	width: 150px;
+	border-radius: 10px;
+	margin-top: 110px;
+}
+#container1 h2{
+	text-transform: uppercase;
+	padding:20px 30px;
+	
+	border-bottom: 2px solid blue;
+	
+	
+	
+
+}
+
+#container1 p{
+	margin: 12px;
+	text-align: left;
+	font-family: sans-serif;
+	font-weight: bolder;
+}
